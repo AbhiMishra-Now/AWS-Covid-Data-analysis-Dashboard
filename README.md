@@ -146,4 +146,7 @@ In my case,
 mysqlimport --host=database-1.****.us-west-1.rds.amazonaws.com --user=aidan --password=**** --local --fields-terminated-by=',' --fields-enclosed-by='"' covid_data covid_cases s3://covidpopulationdata/covid_population.csv
 ```
 ### Step 6️⃣: Creating a Dashboard with QuickSight ###
+![Screenshot_21-10-2024_22757_](https://github.com/user-attachments/assets/6cb88870-6c9c-436d-9be4-46268c47df6b)
+
+
 ***I utilized Amazon QuickSight to create a dashboard that displays key metrics and visualizations revolving around cases and deaths of COVID-19 as of December 2023 derived from my MySQL dataset. 📊***
