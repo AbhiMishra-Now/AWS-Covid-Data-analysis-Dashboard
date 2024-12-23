@@ -147,6 +147,8 @@ mysqlimport --host=database-1.****.us-west-1.rds.amazonaws.com --user=aidan --pa
 ```
 ### Step 6️⃣: Creating a Dashboard with QuickSight ###
 ![Screenshot_21-10-2024_22757_](https://github.com/user-attachments/assets/6cb88870-6c9c-436d-9be4-46268c47df6b)
+![Aws RDS analysis visualization1](https://github.com/user-attachments/assets/cb40fe0a-d93c-4625-8067-4cc201d1f8fe)
+![Aws RDS analysis visualization](https://github.com/user-attachments/assets/2b4897b2-53f6-47eb-8fff-ea9b0a8598ee)
 
 
 ***I utilized Amazon QuickSight to create a dashboard that displays key metrics and visualizations revolving around cases and deaths of COVID-19 as of December 2023 derived from my MySQL dataset. 📊***
